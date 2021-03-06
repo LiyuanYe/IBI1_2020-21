@@ -1,0 +1,3 @@
+Everything went well during the practical, and I don't think this practical is challenging.
+Remember to use VPN to access to GitHub in China. Otherwise you will receive very bad user experience. 
+Also, don't try to directly push the file in school's server to GitHub. The system may crash.
