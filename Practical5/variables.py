@@ -14,6 +14,8 @@ Y = False
 Z = (X and not Y) or (Y and not X)
 if Z == True:
     print("Ture")
+else:
+    print("False")
 
 W = (X!=Y)
 if Z == W:
