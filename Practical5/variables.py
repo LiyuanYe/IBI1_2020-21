@@ -20,3 +20,5 @@ else:
 W = (X!=Y)
 if Z == W:
     print("Z == W")
+else:
+    print("Z !=W")
